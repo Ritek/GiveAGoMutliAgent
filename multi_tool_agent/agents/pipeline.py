@@ -1,0 +1,1 @@
+root_agent = pipeline_agent
